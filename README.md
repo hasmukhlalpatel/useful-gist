@@ -9,3 +9,6 @@ My own useful [gist list](https://gist.github.com/hasmukhlalpatel)
 * [How to DUAL BOOT Windows 10 and Windows 11 (Without USB) 2023](https://gist.github.com/hasmukhlalpatel/c91cd3cf68508d18b61c4c17708986b2)
 
 * [Isolated Function AI logger issue - LogicalCallContext AsyncLocal](https://gist.github.com/hasmukhlalpatel/90930095f6d3d9dedffb7837a73929bd)
+  * [LogicalCallContext, ApplicationInsights- ITelemetryInitializer](https://gist.github.com/hasmukhlalpatel/90930095f6d3d9dedffb7837a73929bd#file-loggercontext-cs)
+  * [LogicalCallContextBuilderMiddleware](https://gist.github.com/hasmukhlalpatel/90930095f6d3d9dedffb7837a73929bd#file-logicalcallcontextbuildermiddleware-cs)
+  * [HttpClient ->LogicalCallContextHandler](https://gist.github.com/hasmukhlalpatel/90930095f6d3d9dedffb7837a73929bd#file-logicalcallcontexthandler-cs)
