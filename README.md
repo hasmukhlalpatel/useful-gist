@@ -13,3 +13,6 @@ My own useful [gist list](https://gist.github.com/hasmukhlalpatel)
   * [LogicalCallContextBuilderMiddleware](https://gist.github.com/hasmukhlalpatel/90930095f6d3d9dedffb7837a73929bd#file-logicalcallcontextbuildermiddleware-cs)
    * [Middleware Unit test](https://gist.github.com/hasmukhlalpatel/90930095f6d3d9dedffb7837a73929bd#file-logicalcallcontextbuildermiddlewaretests-cs)
   * [HttpClient ->LogicalCallContextHandler](https://gist.github.com/hasmukhlalpatel/90930095f6d3d9dedffb7837a73929bd#file-logicalcallcontexthandler-cs)
+
+## VPN setup
+* [Wireguard seup](https://gist.github.com/hasmukhlalpatel/abe49fc9062665a7edf6c6891b1e1b8b)
