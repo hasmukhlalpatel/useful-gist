@@ -24,3 +24,7 @@ My own useful [gist list](https://gist.github.com/hasmukhlalpatel)
   * approach to securing trading APIs?
   * What benefits do you see in using messaging systems?
   * How do you ensure that a application scales efficiently while meeting uptime and latency SLAs?
+* [MicroServices interview questions - Choreography Vs Orchestration, Saga Pattern & Routing Slip Pattern](https://gist.github.com/hasmukhlalpatel/9e1416250d7024c84ea2ce6256066b81)
+  * Choreography Vs Orchestration
+  * Saga Pattern
+  * Routing Slip Pattern
