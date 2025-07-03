@@ -19,8 +19,8 @@ My own useful [gist list](https://gist.github.com/hasmukhlalpatel)
 
 ## Interview questions
 * [MicroServices interview questions - performance, Resilience & latency](https://gist.github.com/hasmukhlalpatel/e659388a46008a9e70f4f0f86736b896)
- * improve backend performance and reduce latency?
- * handle failures and recover gracefully under load?
- * approach to securing trading APIs?
- * What benefits do you see in using messaging systems?
- * How do you ensure that a application scales efficiently while meeting uptime and latency SLAs?
+  * improve backend performance and reduce latency?
+  * handle failures and recover gracefully under load?
+  * approach to securing trading APIs?
+  * What benefits do you see in using messaging systems?
+  * How do you ensure that a application scales efficiently while meeting uptime and latency SLAs?
