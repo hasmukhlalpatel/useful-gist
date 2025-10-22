@@ -16,7 +16,9 @@ My own useful [gist list](https://gist.github.com/hasmukhlalpatel)
 
 * [Run k3s-server with powershell (Workig with podman)](https://gist.github.com/hasmukhlalpatel/e91d04b693ac89780d8696b19eb2cee2)
   * [Setup K3S on Docker](https://gist.github.com/hasmukhlalpatel/2e4c0567c2f999176ac302a7414eacf7)
-
+* [Setup devbox on wsl using PowerShell script](https://gist.github.com/hasmukhlalpatel/ba467051fa690383d0f813e6d03861a4)
+* [Start-up PowerShell scrips - Windows Terminal profile file - Goto commands](https://gist.github.com/hasmukhlalpatel/46e454688cf563221eb612ba55e25e55)
+* [Generate self sign certificates for local development](https://gist.github.com/hasmukhlalpatel/91036336690135abe600e97831455544#file-readme-md)
 ## VPN setup
 * [Wireguard setup](https://gist.github.com/hasmukhlalpatel/abe49fc9062665a7edf6c6891b1e1b8b)
 
