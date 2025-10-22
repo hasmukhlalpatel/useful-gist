@@ -15,6 +15,7 @@ My own useful [gist list](https://gist.github.com/hasmukhlalpatel)
   * [HttpClient ->LogicalCallContextHandler](https://gist.github.com/hasmukhlalpatel/90930095f6d3d9dedffb7837a73929bd#file-logicalcallcontexthandler-cs)
 
 * [Run k3s-server with powershell (Workig with podman)](https://gist.github.com/hasmukhlalpatel/e91d04b693ac89780d8696b19eb2cee2)
+ * [Setup K3S on Docker](https://gist.github.com/hasmukhlalpatel/2e4c0567c2f999176ac302a7414eacf7)
 
 ## VPN setup
 * [Wireguard setup](https://gist.github.com/hasmukhlalpatel/abe49fc9062665a7edf6c6891b1e1b8b)
