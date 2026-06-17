@@ -57,6 +57,7 @@ My own useful [gist list](https://gist.github.com/hasmukhlalpatel)
 
 ## Aarchitectures & Frameworks
 * https://learn.microsoft.com/en-us/azure/well-architected/
+* https://learn.microsoft.com/en-us/azure/architecture/
 * https://docs.cloud.google.com/architecture/framework
 
 ### APIM samples
