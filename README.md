@@ -36,7 +36,13 @@ My own useful [gist list](https://gist.github.com/hasmukhlalpatel)
 
 ## AI
 * https://azure.microsoft.com/en-us/products/ai-foundry
+* https://learn.microsoft.com/en-us/azure/foundry/how-to/develop/ai-template-get-started
+### MCP
+* https://github.com/Azure-Samples/python-mcp-demos
 * https://mcpservers.org/remote-mcp-servers
+### Agents
+* https://github.com/Azure-Samples/get-started-with-ai-agents
+
 ### agent - Skills and Rules
 * https://agentskills.io/home
 * https://addyosmani.com/blog/agent-skills/
