@@ -33,3 +33,13 @@ My own useful [gist list](https://gist.github.com/hasmukhlalpatel)
   * [Choreography Vs Orchestration](https://gist.github.com/hasmukhlalpatel/44745a002e5690bd8de04637f62c1a6c)
   * Saga Pattern
   * Routing Slip Pattern
+
+## AI
+* https://azure.microsoft.com/en-us/products/ai-foundry
+* https://mcpservers.org/remote-mcp-servers
+### agent - Skills and Rules
+* https://agentskills.io/home
+* https://addyosmani.com/blog/agent-skills/
+
+## APIM samples
+ https://github.com/Azure-Samples/Apim-Samples
