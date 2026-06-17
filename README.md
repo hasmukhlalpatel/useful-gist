@@ -40,6 +40,7 @@ My own useful [gist list](https://gist.github.com/hasmukhlalpatel)
 ### MCP
 * https://github.com/Azure-Samples/python-mcp-demos
 * https://mcpservers.org/remote-mcp-servers
+* https://jamiemaguire.net/index.php/2026/01/31/model-context-protocol-mcp-building-and-debugging-your-first-mcp-server-in-net/?utm_content=380189349&utm_medium=social&utm_source=linkedin&hss_channel=lcp-18055275
 ### Agents
 * https://github.com/Azure-Samples/get-started-with-ai-agents
 
