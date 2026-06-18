@@ -48,6 +48,7 @@ My own useful [gist list](https://gist.github.com/hasmukhlalpatel)
 
 ### agent - Skills and Rules
 * https://agentskills.io/home
+* https://www.skills.google/
 * https://addyosmani.com/blog/agent-skills/
 * https://mcpservers.org/agent-skills
 * https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview
