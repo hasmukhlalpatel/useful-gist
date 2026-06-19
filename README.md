@@ -47,6 +47,7 @@ My own useful [gist list](https://gist.github.com/hasmukhlalpatel)
 * https://github.com/Azure-Samples/get-started-with-ai-agents
 
 ### agent - Skills and Rules
+* https://www.skills.sh/
 * https://agentskills.io/home
 * https://www.skills.google/
 * https://addyosmani.com/blog/agent-skills/
